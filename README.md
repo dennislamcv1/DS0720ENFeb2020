@@ -1,4 +1,4 @@
-# DS0720EN (Year 2020 edition)
+# DS0720EN (Year 2020 Feburary edition)
 ## Data Science and Machine Learning Capstone Project
 Employers really care about how well can you apply your knowledge and skills to solve real world problems. Now that you've taken several courses on Data Science and Machine Learning, its time to put your learning to practice and work on a data problem involving a real life scenario.
 
